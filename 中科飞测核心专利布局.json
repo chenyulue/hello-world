@@ -1,0 +1,53 @@
+{
+	"name": "中科飞测",
+	"children": [
+	{
+		"name": "深紫外成像扫描技术",
+		"children": [
+		{"name": "CN103018258B", "value": 1},
+		{"name": "CN102759533A", "value": 1}
+		]
+	},
+	{
+		"name": "高精度多模式干涉量测",
+		"children": [
+		{"name": "CN113624156A", "value": 1}
+		]
+	},
+	{
+		"name": "基于参考区域对比的缺陷识别算法",
+		"children": [
+		{"name": "CN111667448B", "value": 1},
+		{"name": "CN112767396B", "value": 1}
+		]
+	},
+	{
+		"name": "晶圆正边背全维度检测",
+		"children": [
+		{"name": "CN217277934U", "value": 1},
+		{"name": "CN217156336U", "value": 1},
+		{"name": "CN114062382A", "value": 1}
+		]
+	},
+	{
+		"name": "高深宽比结构的膜厚量测",
+		"children": [
+		{"name": "CN109540005B", "value": 1},
+		{"name": "CN109540004A", "value": 1}
+		]
+	},
+	{
+		"name": "高速目标定位和量测路径规划",
+		"children": [
+		{"name": "CN215525579U", "value": 1},
+		{"name": "CN115561255A", "value": 1}
+		]
+	},
+	{
+		"name": "光谱共聚焦多视角拼接三维重构",
+		"children": [
+		{"name": "CN111623723B", "value": 1},
+		{"name": "CN114299049A", "value": 1}
+		]
+	}]
+}
